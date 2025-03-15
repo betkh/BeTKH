@@ -10,14 +10,10 @@ Visit My webiste / Scan QR code: [www.data-wiz-bek.com](https://www.data-wiz-bek
 - MS, Electrical Engineering & IT - Universität Rostock - Germany (Apr, 2022)
 - BS, Electrical Engineering - Jimma University - Ethiopia (Jul, 2015)
 
-## 💻 Experience:
+## 💻 Hands on Experienced :
 
-- Graduate Teaching Assistant (GTA) at North Dakota State University
-- Data Engineer - University of Regensburg - Germany
-- NLP Masters Thesis Student - University of Rostock - Germany
-- Data Analysis Project - University of Rostock - Germany
-- Customer Service Officer - Ethio Telecom - Ethiopia
-- Electrical Engineer - General Power PLC - Ethiopia
+- Building ETL pipelines, Data Visualization, Dashboarding, Data Wrangling, Transformation
+- WebApp Development using Flask and Django 
 
 ## 🏅 Certifications
 
