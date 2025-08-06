@@ -2,7 +2,7 @@ Hi 👋🏽, I'm Bekalu.
 
 Thanks for visiting my GitHub.
 
-Visit My webiste / Scan QR code: [www.data-wiz-bek.com](https://www.data-wiz-bek.com/) <p align="left"> <img src="./img/qr.png" alt="qrCode" width="75"/></p>
+Visit My webiste / Scan QR code: [www.data-wiz-bek.com](https://www.data-wiz-bek.com/) <p align="left"> <img src="./img/new_qr.png" alt="qrCode" width="75"/></p>
 
 ## :mortar_board: Education:
 
@@ -13,7 +13,7 @@ Visit My webiste / Scan QR code: [www.data-wiz-bek.com](https://www.data-wiz-bek
 ## 💻 Hands on Experience :
 
 - Building ETL pipelines, Data Visualization, Dashboarding, Data Wrangling, Transformation
-- WebApp Development using Flask and Django 
+- WebApp Development using Flask and Django
 
 ## 🏅 Certifications
 
